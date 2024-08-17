@@ -1,0 +1,26 @@
+{
+  "name": "pasted-ronizaokkkk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "11.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "enmap": "^5.4.0",
+    "express": "^4.17.1",
+    "firebase": "^7.16.1",
+    "fs": "^0.0.2",
+    "isurl": "^4.0.1",
+    "jimp": "^0.16.0",
+    "merge-img": "^2.1.3",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "path": "^0.12.7"
+  }
+}

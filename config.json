@@ -1,0 +1,25 @@
+{
+  "token": "Bot Token",
+  "cor": "#900000",
+  "prefix": ",",
+  "firebase": {
+    "databaseURL": "URL_DO_SEU_BANCO_DE_DADOS_FIREBASE"
+  },
+  "permissions": {
+    "manageRoles": "MANAGE_ROLES"
+  },
+  "roles": {
+    "notificationRole": "749431468819873922"
+  },
+  "embedFooter": {
+    "text": "Solicitado por {user}",
+    "iconURL": "{userAvatar}"
+  },
+  "dateFormat": "DD/MM/YYYY [às] HH:mm",
+  "statusTranslations": {
+    "online": "Online",
+    "idle": "Ausente",
+    "dnd": "Ocupado",
+    "offline": "Offline/Invisível"
+  }
+}
